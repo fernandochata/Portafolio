@@ -2,4 +2,4 @@
 
 Ejemplo de portafolio
 
-[Imgur](https://i.imgur.com/tExSDssm.png)
+<a href="https://imgur.com/tExSDss"><img src="https://i.imgur.com/tExSDssm.png" title="source: imgur.com" /></a>
